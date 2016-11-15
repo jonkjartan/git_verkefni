@@ -1,8 +1,8 @@
-1. Hvað gera eftirfarandi Linux skipanir?
+##Hvað gera eftirfarandi Linux skipanir?
 	
-	cd
-	cd ~
-	ls
-	pwd
-	mkdir
+	*cd
+	*cd ~
+	*ls
+	*pwd
+	*mkdir
 
