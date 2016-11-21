@@ -22,3 +22,7 @@
 	a) git diff   //Birtir breytingar sem á eftir að stageað
 	b) git diff --staged //Birtir munninn á því skjali sem er stageað og áður en það var stageað 
 	c) git diff commit1 commit2 //sýnir munninn á milli beggja
+	
+	4. Hvað er version control, hverjir eru helstu kostir við að nota GIT?
+	
+		Það er kerfi sem sýnir breytingar á skjali eða skjölum yfir ákveðin tíma svo þú getur skoðað allar breytingar sem hafa orðið á verkefninnu.
