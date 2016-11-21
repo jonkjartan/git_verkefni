@@ -15,3 +15,10 @@
 	git diff //Sýnir hvaða breytingar hafa verið gerðar.
 	git checkout //Þessi skipun leyfir manni að skipta um greinar í verkefninu
 
+
+
+	3. Hver er munurinn á eftirfarandi git skipunum:
+	
+	a) git diff   //Birtir breytingar sem á eftir að stageað
+	b) git diff --staged //Birtir munninn á því skjali sem er stageað og áður en það var stageað 
+	c) git diff commit1 commit2 //sýnir munninn á milli beggja
