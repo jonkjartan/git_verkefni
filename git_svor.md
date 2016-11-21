@@ -42,6 +42,10 @@
 		
 		Repository er svæðið sem kóðinn/skjölinn er geymdur eftir þú ert búinn að setja hann í git.
 		
+	8.	Hvenær er sniðugt að nota greinar (branches)? 
+	
+		Ég myndi nota greinar ef þú vilt prufa eitthvað nýtt án þess að eyðileggja kóðinn/skjölinn.
+		
 	
 	
 	
