@@ -46,6 +46,9 @@
 	
 		Ég myndi nota greinar ef þú vilt prufa eitthvað nýtt án þess að eyðileggja kóðinn/skjölinn.
 		
+		
+	Jón Kjartan Einarsson
+		
 	
 	
 	
