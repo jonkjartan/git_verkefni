@@ -25,4 +25,10 @@
 	
 	4. Hvað er version control, hverjir eru helstu kostir við að nota GIT?
 	
-		Það er kerfi sem sýnir breytingar á skjali eða skjölum yfir ákveðin tíma svo þú getur skoðað allar breytingar sem hafa orðið á verkefninnu.
+		//Það er kerfi sem sýnir breytingar á skjali eða skjölum yfir ákveðin tíma svo þú getur skoðað allar breytingar sem hafa orðið á verkefninnu.
+		
+	5.	Hverjir eru helstu kostir við að nota GIT?
+		
+		Það er mjög þægilegt í hópavinnu ásamt að geta farið fram og til baka með branches þannig það er mjög erfitt að eyðileggja verkefni með git.
+		
+		
